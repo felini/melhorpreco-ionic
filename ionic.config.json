@@ -1,0 +1,7 @@
+{
+  "name": "MelhorPreco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
